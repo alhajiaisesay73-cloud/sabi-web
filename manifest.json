@@ -2,7 +2,7 @@
   "id": "/",
   "name": "Sabi",
   "short_name": "Sabi",
-  "description": "Free WASSCE quiz matches in English and Maths. Play your padi, learn what you miss.",
+  "description": "Free WASSCE English quiz matches. Play your padi, learn what you miss.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
